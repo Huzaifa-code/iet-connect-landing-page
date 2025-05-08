@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+@import "tailwindcss";
+
+:root {
+  font-family: "Jersey 15", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 400;
+}
+
+body {
+  cursor: url('/cursor.png') 0 0, auto;
+}
+
+a:hover,
+button:hover,
+input[type="submit"]:hover {
+  cursor: url('/cursor-hover.png') 0 0, auto;
+}
