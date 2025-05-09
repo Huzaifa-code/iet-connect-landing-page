@@ -4,7 +4,7 @@ import { motion } from 'motion/react'
 
 const About = () => {
   return (
-    <div id='about' className='h-screen flex justify-center items-center gap-24 px-18 mt-24'>
+    <div id='about' className='h-screen flex md:flex-row flex-col justify-center items-center gap-24 px-18 mt-24'>
         <motion.img 
           src={ietdavv} 
           alt="ietdavv" 

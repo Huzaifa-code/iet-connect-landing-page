@@ -25,7 +25,7 @@ const Contribute = () => {
           </a> */}
 
           <a
-            href="mailto:ietconnect.team@gmail.com"
+            href="mailto:vjain@ietdavv.edu.in"
             className="bg-red-600 hover:bg-red-500 transition-colors px-6 py-3 rounded-md flex items-center gap-2"
           >
             <FaEnvelope /> Mail Us <FaExternalLinkAlt size={14} />
@@ -41,9 +41,9 @@ const Contribute = () => {
           </a> */}
           <div className="grid grid-cols-2 gap-4 text-white">
             {[
-              { name: "Manas Bhandari", url: "https://linkedin.com/in/member1" },
-              { name: "Huzaifa Qureshi", url: "https://linkedin.com/in/member2" },
-              { name: "Mohit Maravi", url: "https://linkedin.com/in/member3" },
+              { name: "Manas Bhandari", url: "https://linkedin.com/in/manas0609" },
+              { name: "Huzaifa Qureshi", url: "https://linkedin.com/in/developerhuzaifa" },
+              { name: "Mohit Maravi", url: "https://linkedin.com/in/mohit-maravi-a68815226" },
               // { name: "Member 4", url: "https://linkedin.com/in/member4" },
             ].map((member, index) => (
               <a
@@ -59,7 +59,7 @@ const Contribute = () => {
           </div>
         </div>
 
-        <p className="mt-10 text-sm text-gray-500">
+        <p className="mt-10  text-gray-500">
           Made with ❤️ by students of IET DAVV — let's build something great together.
         </p>
       </div>
