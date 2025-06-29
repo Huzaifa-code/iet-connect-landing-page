@@ -37,10 +37,10 @@ const Hero = () => {
         </div>
 
         <a
-          href="/ietconnectofficial.apk"
+          target="_blank"
+          href="https://drive.google.com/file/d/1-F6KG_IZ4ZJucqK5LLdn9sT6S51SihQl/view?usp=sharing"
           className="flex items-center gap-2 text-white bg-violet-500 px-6 py-3 text-lg rounded-md shadow-md
             hover:bg-red-400 hover:shadow-lg transition-all duration-300 ease-in-out mt-6"
-          download
         >
           <FaAndroid size={22} /> Download App Now
         </a>
