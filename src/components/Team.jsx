@@ -37,7 +37,7 @@ const Team = () => {
           <TeamCard
             name="Mohit Maravi"
             linkedin="https://www.linkedin.com/in/mohit-maravi-a68815226/"
-            imageSrc="https://media.licdn.com/dms/image/v2/D4D35AQEDzUdPrm5Ibw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1734507853289?e=1751209200&v=beta&t=07axwNdWVs-Hz7l5lg5yHvTMAW0VtKPF5g32N3YQf6c"
+            imageSrc="https://media.licdn.com/dms/image/v2/D4D35AQEDzUdPrm5Ibw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1734507853289?e=1752314400&v=beta&t=2vbly5Ts7KUlfqwIPU7y0sE8IOQQOzEhzrkdsk43g_4"
           />
         </div>
       </div>
