@@ -27,17 +27,17 @@ const Team = () => {
           <TeamCard
             name="Manas Bhandari"
             linkedin="https://in.linkedin.com/in/manas0609"
-            imageSrc="https://media.licdn.com/dms/image/v2/D4D03AQFXoXjmzt88gA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713461361427?e=1756339200&v=beta&t=DfBVjUxiVlpOUxgFXgE64EmYOmjcjDGNVQzFW6j6rDI"
+            imageSrc="https://i.ibb.co/LzZ9nz4h/image.png"
           />
           <TeamCard
             name="Huzaifa Qureshi"
             linkedin="https://www.linkedin.com/in/developerhuzaifa/"
-            imageSrc="https://media.licdn.com/dms/image/v2/D4D03AQGMjeMz2kg43A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1682870288583?e=1756339200&v=beta&t=AonUyBZCPriXtnoQuZsd5_7MpoWbizyccROHqQ6T44U"
+            imageSrc="https://i.ibb.co/d0VMBBWN/image.png"
           />
           <TeamCard
             name="Mohit Maravi"
             linkedin="https://www.linkedin.com/in/mohit-maravi-a68815226/"
-            imageSrc="https://media.licdn.com/dms/image/v2/D4D35AQEDzUdPrm5Ibw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1734507853289?e=1752314400&v=beta&t=2vbly5Ts7KUlfqwIPU7y0sE8IOQQOzEhzrkdsk43g_4"
+            imageSrc="https://i.ibb.co/Tx1BjcYd/image.png"
           />
         </div>
       </div>
@@ -57,7 +57,7 @@ const TeamCard = ({ imageSrc, name, linkedin }) => {
   return (
     <div
       onClick={handleClick}
-      className="w-full px-4 md:w-1/2 xl:w-1/4 cursor-pointer"
+      className="w-full px-4 md:w-1/2 cursor-pointer"
       title={
         linkedin && linkedin.startsWith("http") ? "View LinkedIn Profile" : ""
       }
