@@ -38,7 +38,7 @@ const Hero = () => {
 
         <a
           target="_blank"
-          href="https://github.com/Huzaifa-code/iet-connect-landing-page/releases/download/v1.0/ietconnectofficial.apk"
+          href="https://github.com/Huzaifa-code/iet-connect-landing-page/releases/download/v1.1/ietconnectofficial.apk"
           className="flex items-center gap-2 text-white bg-violet-500 px-6 py-3 text-lg rounded-md shadow-md
             hover:bg-red-400 hover:shadow-lg transition-all duration-300 ease-in-out mt-6"
         >
