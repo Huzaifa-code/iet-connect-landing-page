@@ -57,7 +57,7 @@ const TeamCard = ({ imageSrc, name, linkedin }) => {
   return (
     <div
       onClick={handleClick}
-      className="w-full px-4 md:w-1/2 cursor-pointer"
+      className="w-full px-4 md:w-1/3 cursor-pointer"
       title={
         linkedin && linkedin.startsWith("http") ? "View LinkedIn Profile" : ""
       }
